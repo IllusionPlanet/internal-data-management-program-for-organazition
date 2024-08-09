@@ -1,2 +1,11 @@
-# internal-data-management-program-for-organazition
-#3 组织内部数据管理程序
+类型：简易程序
+
+开发环境：Qt Creator
+
+技术栈：C++，Qt
+
+时间：2021/05 - 2021/06（大二春季）
+
+人员：独立
+
+课程：数据库系统
